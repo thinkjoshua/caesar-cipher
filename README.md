@@ -14,5 +14,5 @@ No known bugs available.
 If you run into any issues or have questions, ideas or concerns or you want to make a contribution to the project, email me at jmusau62@gmail.com
 ### License
 * MIT license 
-* Copyright (c) 2019 
+* Copyright (c) 2021
 * **Joshua Musau**# caesar-cipher
